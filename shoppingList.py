@@ -18,7 +18,7 @@ def show_help():
  ENTER "YES"  to add items.
  Enter "DONE" to get the final list.
  Enter "HELP" for this help.
- Enter "LIST" to see this list.
+ Enter "LIST" to see Your list.
 """)
 
 
